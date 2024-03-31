@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@benjeau/react-native-draw": "^0.8.3",
+    "@expo/metro-runtime": "~3.1.3",
     "expo": "~50.0.14",
+    "expo-draw": "github:MarangoniEduardo/expo-draw",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-dom": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-svg": "14.1.0",
+    "react-native-web": "~0.19.6",
+    "@shopify/react-native-skia": "0.1.221",
+    "react-native-reanimated": "~3.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
